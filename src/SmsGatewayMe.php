@@ -1,9 +1,8 @@
 <?php
 
-namespace qlixes\SmsGateway\Vendors;
+namespace qlixes\SmsGateway;
 
 use GuzzleHttp\Client;
-use Illuminate\Support\Facades\Log;
 
 class SmsGatewayMe extends Client
 {
