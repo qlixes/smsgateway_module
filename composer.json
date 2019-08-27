@@ -1,0 +1,20 @@
+{
+    "name": "qlixes/smsgatewaymodule",
+    "type": "library",
+    "autoload": {
+
+        "psr-4": {
+            "qlixes\\SmsGateway\\": "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bryan Chan",
+            "email": "qlixess@gmail.com"
+        }
+    ]
+}
